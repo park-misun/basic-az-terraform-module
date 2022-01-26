@@ -1,1 +1,2 @@
-# basic-az-terraform-module
+# azure-terraform-module-demo1
+VNET, Storage 
